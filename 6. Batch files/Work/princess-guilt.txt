@@ -1,0 +1,9 @@
+princes+  1310  0.0  0.0   6868  3048 pts/1    S+   23:07   0:00 /bin/bash ./case_statement.sh
+princes+  1311  0.0  0.0  11056  4260 pts/1    R+   23:07   0:00 ps aux
+princes+  1313  0.0  0.0  22020   896 pts/1    S+   23:07   0:00 sort
+princes+   819  0.0  0.0   7256  4016 pts/1    Ss   21:49   0:01 -bash
+root         1  0.0  0.0   2340  1728 ?        Sl   19:40   0:00 /init
+root         4  0.0  0.0   2368    68 ?        Sl   19:40   0:00 plan9 --control-socket 5 --log-level 4 --server-fd 6 --pipe-fd 8 --log-truncate
+root       817  0.0  0.0   2348   128 ?        Ss   21:49   0:00 /init
+root       818  0.0  0.0   2364   136 ?        S    21:49   0:00 /init
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
